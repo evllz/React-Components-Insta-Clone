@@ -50,3 +50,9 @@
   margin: 15px 0px;
   font-size: 16px;
 }
+.not-liked{
+  display: block;
+}
+.liked{
+  display: none;
+}
